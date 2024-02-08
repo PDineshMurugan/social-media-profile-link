@@ -13,9 +13,7 @@ This project is a simple social media link profile created using HTML and CSS. I
 
 ## Demo
 
-You can view a live demo of the social media link profile [here](#). (Replace "#" with your actual demo link)
-
-![Demo screenshot](demo/demo-screenshot.png)
+You can view a live demo of the social media link profile [here](https://pdineshmurugan.github.io/social-media-profile-link/social-links-profile-main/). 
 
 ## Features
 
